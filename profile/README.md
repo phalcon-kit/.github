@@ -1,10 +1,11 @@
-# Welcome to the Zemit CMS!
+# Welcome to the Phalcon Kit!
 
-Welcome to the Zemit CMS - a robust, scalable, and efficient web development CMS built on Phalcon. Zemit simplifies complex coding tasks, making web development faster and more enjoyable.
+Welcome to **Phalcon Kit** — a modern, modular developer toolkit built on the Phalcon framework. It streamlines application development with clean architecture, reusable components, and a focus on performance and scalability.
 
 ## Features
 
-- **Fast and Efficient**: Built on the high-performance Phalcon framework, ensuring swift execution and resource optimization.
-- **Scalable Architecture**: Designed to support applications of all sizes, from small websites to large-scale enterprise systems.
-- **Easy to Learn**: Clear conventions and well-documented codebase make Zemit accessible to developers at all skill levels.
-- **Modular Components**: Extensible and customizable components that can be tailored to your specific application needs.
+- **High-Performance Core** – Powered by the Phalcon 5 framework for exceptional speed and efficiency.
+- **Scalable Architecture** – Structured for projects of any size, from micro-services to full-scale enterprise platforms.
+- **Modern Conventions** – Clean, consistent, and intuitive codebase designed for PHP 8.4+ developers.
+- **Modular & Extensible** – Easily extend core modules or integrate your own components with minimal friction.
+- **Developer-Friendly** – Thoughtfully documented and optimized for rapid development and maintainability.
