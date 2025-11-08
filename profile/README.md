@@ -1,6 +1,6 @@
 # Welcome to the Phalcon Kit!
 
-Welcome to **Phalcon Kit** — a modern, modular developer toolkit built on the Phalcon framework. It streamlines application development with clean architecture, reusable components, and a focus on performance and scalability.
+Welcome to **Phalcon Kit** — a modern, modular developer toolkit built on the [Phalcon framework](https://github.com/phalcon). It streamlines application development with clean architecture, reusable components, and a focus on performance and scalability.
 
 ## Features
 
